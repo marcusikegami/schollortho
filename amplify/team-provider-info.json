@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-schollprojectaws-dev-163834-authRole",
+      "UnauthRoleArn": "arn:aws:iam::523709079298:role/amplify-schollprojectaws-dev-163834-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::523709079298:role/amplify-schollprojectaws-dev-163834-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-schollprojectaws-dev-163834-deployment",
+      "UnauthRoleName": "amplify-schollprojectaws-dev-163834-unauthRole",
+      "StackName": "amplify-schollprojectaws-dev-163834",
+      "StackId": "arn:aws:cloudformation:us-west-2:523709079298:stack/amplify-schollprojectaws-dev-163834/3ebdbb70-8964-11ed-ba63-02e7e0e30d35",
+      "AmplifyAppId": "d9cs84nzwuqo0"
+    },
+    "categories": {
+      "function": {
+        "schollprojectawsf0cf0bf4": {
+          "deploymentBucketName": "amplify-schollprojectaws-dev-163834-deployment",
+          "s3Key": "amplify-builds/schollprojectawsf0cf0bf4-67642b6e3754475a7476-build.zip"
+        }
+      },
+      "storage": {
+        "posts": {}
+      },
+      "api": {
+        "schollortho": {}
+      }
+    }
+  }
+}

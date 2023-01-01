@@ -1,0 +1,14 @@
+{
+  "resourceName": "posts",
+  "tableName": "posts",
+  "partitionKey": {
+    "fieldName": "title",
+    "fieldType": "string"
+  },
+  "sortKey": {
+    "fieldName": "createdAt",
+    "fieldType": "number"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
